@@ -1,7 +1,10 @@
 # SmallQNetNoiseML
 
-code for the paper *Noise classification in small quantum networks by Machine Learning*
+code for the paper **Noise classification in Three-Level quantum networks by Machine Learning**  
+by *Shreyasi Mukherjee, Dario Penna, Fabio Cirinnà, Mauro Paternostro, Elisabetta Paladino, Giuseppe Falci, and Luigi Giannelli*
 
+[Machine Learning: Science and Technology 5, 045049 (2024)](https://dx.doi.org/10.1088/2632-2153/ad9193)  
+[doi:10.1088/2632-2153/ad9193](https://doi.org/10.1088/2632-2153/ad9193)  
 [arXiv:2405.01987](https://arxiv.org/abs/2405.01987)
 
 The code is known to work with the following software versions:
